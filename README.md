@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # React-Todo
->>>>>>> 61c6e8e4403548fdf9c028bcf0ca1ca9cc9f16f6
+See My Project:
+https://adeshdsouza94494.github.io/React-Todo/
