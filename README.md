@@ -15,6 +15,10 @@ Mark as Complete: Tasks can be marked as completed, helping track progress.
 Delete Tasks: Remove completed or unwanted tasks easily.
 
 ## Technologies
-Frontend: React.js, useReducer ,Context ,CSS, bootstrap
+React.js: The main framework for building the user interface.
+useReducer: For state management in the application.
+Context API: To manage global state across components.
+CSS: For styling the app's interface.
+Bootstrap: For responsive design and layout styling.
 
 
