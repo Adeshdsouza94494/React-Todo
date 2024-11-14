@@ -14,7 +14,7 @@ Add Tasks: Users can add tasks with descriptions.
 Mark as Complete: Tasks can be marked as completed, helping track progress.
 Delete Tasks: Remove completed or unwanted tasks easily.
 
-##Technologies
+## Technologies
 Frontend: React.js, useReducer ,Context ,CSS, bootstrap
 
 
